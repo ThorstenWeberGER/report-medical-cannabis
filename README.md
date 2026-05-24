@@ -44,7 +44,7 @@ The outlook for 2026 is cautiously optimistic, with one asterisk: a proposed ame
 
 ![Cannabis Legalisation — World](world_cannabis_map.jpg)
 
-> **Interactive visual** [available](./cannabis_world_map.html) for more details on other value chain roles
+> **Interactive visual** [available](./cannabis_world_map.html) for more details on other value chain roles. Download and open HTML file with browser.
 
 ### Global Market Revenue
 
