@@ -5,6 +5,30 @@
 
 ---
 
+## Management Summary
+
+Medical cannabis has quietly become one of the fastest-growing segments in global healthcare — not a niche anymore, but a market scaling from roughly **$22–25 billion in 2024 toward a projected $130–159 billion by 2033**. That's a compound annual growth rate of around 22%. The direction is clear; the speed depends on how regulators move.
+
+Globally, about **50 countries** now permit medical cannabis in some form. Eight have gone further and legalised recreational use — Canada, Germany, and a handful of others. The US sits in a peculiar middle ground: medically legal in 38 states, recreationally legal in 24, yet still federally prohibited. It still commands more than 45% of global revenue.
+
+In Europe, things are accelerating. The continent generated roughly **€1–1.5 billion in 2024**, up from €516 million just a year earlier, with forecasts pointing to €2.5 billion by 2027. The engine driving this is Germany.
+
+**Germany is the largest medical cannabis market in Europe** — and its April 2024 regulatory reform was a watershed moment. Overnight, cannabis was removed from the narcotics act and any licensed doctor could prescribe it on a standard pink prescription. The result: prescriptions grew by **+3,300%** between March 2024 and December 2025. By end of 2025, Germany had an estimated **900,000 medical cannabis patients**, mostly treated for chronic pain. The market hit approximately **€1 billion** in 2025, with imports reaching 140 tonnes — nearly all of it coming from abroad, since domestic cultivation covers only about 3% of demand.
+
+A handful of companies have shaped the German market:
+
+- **Cantourage** (Berlin, listed) — €92.8 m revenue in 2025, the sector's most transparent financials and the fastest growth
+- **Cansativa** (Frankfurt) — the wholesale platform, self-described "Amazon of medical cannabis", ~25% market share
+- **Grünhorn** (Leipzig) — Germany's largest cannabis pharmacy, vertically integrated from wholesale to patient
+- **Bloomwell** (Frankfurt) — Europe's leading cannabis telemedicine provider, with over 8,000 documented treatment journeys
+- **DrAnsay** — over 1 million patients treated, lowest prescription fees, but highest regulatory risk
+
+What makes this market genuinely complex — and genuinely interesting — is its **seven-step value chain**. A cannabis flower doesn't travel from field to patient in a straight line. It moves through cultivators, importers, GMP processors, wholesalers, doctors, and pharmacies, each operating under its own set of licences, quality standards, and regulatory authorities. Every handover requires documented batch release; a single missing signature stops the chain. The people doing the actual pharmaceutical work — processing raw plant material into a medicine that meets EU-GMP standards, passing it through a Qualified Person's review, ensuring irradiation has been validated — are the largely invisible backbone of an industry that otherwise tends to get talked about in revenue multiples and app downloads.
+
+The outlook for 2026 is cautiously optimistic, with one asterisk: a proposed amendment to German law could restrict mail-order prescriptions and mandate in-person first consultations. For some platforms, that would be existential. For the underlying market, it would slow growth but not reverse it.
+
+---
+
 ## Part 1: Global Market
 
 ### Global Regulatory Status (2025/2026)
